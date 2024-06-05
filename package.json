@@ -19,5 +19,12 @@
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.5",
     "react-redux": "^9.1.2"
+  },
+  "devDependencies": {
+    "@eslint/compat": "^1.0.3",
+    "@eslint/js": "^9.4.0",
+    "eslint": "^9.4.0",
+    "eslint-plugin-react": "^7.34.2",
+    "globals": "^15.3.0"
   }
 }
